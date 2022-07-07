@@ -1,0 +1,1502 @@
+[
+    {
+        "name": "Ağır akut solunum sendromu [SARS]",
+        "abbreviation": "U04"
+    },
+    {
+        "name": "Ağır akut solunum sendromu [SARS], tanımlanmamış",
+        "abbreviation": "U05"
+    },
+    {
+        "name": "Avian İnfluenza Enfeksiyonu",
+        "abbreviation": "U06"
+    },
+    {
+        "name": "Batı Nil Virüsü Enfeksiyonu",
+        "abbreviation": "U07"
+    },
+    {
+        "name": "Boğmaca",
+        "abbreviation": "U08"
+    },
+    {
+        "name": "Boğmaca, bordetella pertussis'e bağlı",
+        "abbreviation": "U09"
+    },
+    {
+        "name": "Boğmaca, bordetella parapertussis'e bağlı",
+        "abbreviation": "U10"
+    },
+    {
+        "name": "Boğmaca, diğer bordotella türlerine bağlı",
+        "abbreviation": "U11"
+    },
+    {
+        "name": "Boğmaca, tanımlanmamış",
+        "abbreviation": "U12"
+    },
+    {
+        "name": "Botulizm",
+        "abbreviation": "U13"
+    },
+    {
+        "name": "Bruselloz",
+        "abbreviation": "U14"
+    },
+    {
+        "name": "Bruselloz, Brucella melitensis’e bağlı",
+        "abbreviation": "U15"
+    },
+    {
+        "name": "Bruselloz, Brucella abortus’a bağlı",
+        "abbreviation": "U16"
+    },
+    {
+        "name": "Bruselloz, Brucella suis’e bağlı",
+        "abbreviation": "U17"
+    },
+    {
+        "name": "Bruselloz, Brucella canis’e bağlı",
+        "abbreviation": "U18"
+    },
+    {
+        "name": "Bruselloz, diğer",
+        "abbreviation": "U19"
+    },
+    {
+        "name": "Bruselloz, tanımlanmamış",
+        "abbreviation": "U20"
+    },
+    {
+        "name": "Brusella spondiliti",
+        "abbreviation": "U21"
+    },
+    {
+        "name": "Brusella spondiliti, birden fazla yer, vertebrada",
+        "abbreviation": "U22"
+    },
+    {
+        "name": "Brusella spondiliti, oksipito-atlanto-aksial bölge",
+        "abbreviation": "U23"
+    },
+    {
+        "name": "Brusella spondiliti, servikal bölge",
+        "abbreviation": "U24"
+    },
+    {
+        "name": "Brusella spondiliti, servikotorasik bölge",
+        "abbreviation": "U25"
+    },
+    {
+        "name": "Brusella spondiliti, torasik bölge",
+        "abbreviation": "U26"
+    },
+    {
+        "name": "Brusella spondiliti, torakolomber bölge",
+        "abbreviation": "U27"
+    },
+    {
+        "name": "Brusella spondiliti, lomber bölge",
+        "abbreviation": "U28"
+    },
+    {
+        "name": "Brusella spondiliti, lumbosakral bölge",
+        "abbreviation": "U29"
+    },
+    {
+        "name": "Brusella spondiliti, sakral ve sakrokoksigeal bölge",
+        "abbreviation": "U30"
+    },
+    {
+        "name": "Brusella spondiliti, yer tanımlanmamış",
+        "abbreviation": "U31"
+    },
+    {
+        "name": "Chikungunya virüs hastalığı",
+        "abbreviation": "U32"
+    },
+    {
+        "name": "Chlamydia trachomatis",
+        "abbreviation": "U33"
+    },
+    {
+        "name": "Alt ürogenital yolda klamidya enfeksiyonu",
+        "abbreviation": "U34"
+    },
+    {
+        "name": "Pelviperiton ve diğer ürogenital organ klamidya enfeksiyonu",
+        "abbreviation": "U35"
+    },
+    {
+        "name": "Klamidya enfeksiyonu, ürogenital yol tanımlanmamış",
+        "abbreviation": "U36"
+    },
+    {
+        "name": "Anüs ve rektumun klamidya enfeksiyonu",
+        "abbreviation": "U37"
+    },
+    {
+        "name": "Pelvik enflamatuvar hastalık, kadında, klamidya",
+        "abbreviation": "U38"
+    },
+    {
+        "name": "COVID-19",
+        "abbreviation": "U39"
+    },
+    {
+        "name": "Çiçek",
+        "abbreviation": "U40"
+    },
+    {
+        "name": "Dank ateşi [klasik dank]",
+        "abbreviation": "U41"
+    },
+    {
+        "name": "Dank hemorajik ateşi",
+        "abbreviation": "U42"
+    },
+    {
+        "name": "Difteri",
+        "abbreviation": "U43"
+    },
+    {
+        "name": "Faringeal difteri",
+        "abbreviation": "U44"
+    },
+    {
+        "name": "Nazofaringeal difteri",
+        "abbreviation": "U45"
+    },
+    {
+        "name": "Laringeal difteri",
+        "abbreviation": "U46"
+    },
+    {
+        "name": "Kutanöz difteri",
+        "abbreviation": "U47"
+    },
+    {
+        "name": "Difteri, diğer",
+        "abbreviation": "U48"
+    },
+    {
+        "name": "Difteri, tanımlanmamış",
+        "abbreviation": "U49"
+    },
+    {
+        "name": "Ebola virüs hastalığı",
+        "abbreviation": "U50"
+    },
+    {
+        "name": "Ekinokokoz",
+        "abbreviation": "U51"
+    },
+    {
+        "name": "Karaciğerde Echinococcus granulosus enfeksiyonu",
+        "abbreviation": "U52"
+    },
+    {
+        "name": "Akciğerde Echinococcus granulosus enfeksiyonu",
+        "abbreviation": "U53"
+    },
+    {
+        "name": "Kemikte Echinococcus granulosus enfeksiyonu",
+        "abbreviation": "U54"
+    },
+    {
+        "name": "Echinococcus granulosus enfeksiyonu, diğer ve birden fazla yerin",
+        "abbreviation": "U55"
+    },
+    {
+        "name": "Echinococcus granulosus enfeksiyonu, tanımlanmamış",
+        "abbreviation": "U56"
+    },
+    {
+        "name": "Karaciğerde Echinococcus multilocularis enfeksiyonu",
+        "abbreviation": "U57"
+    },
+    {
+        "name": "Echinococcus multilocularis enfeksiyonu, diğer ve birden fazla yerin",
+        "abbreviation": "U58"
+    },
+    {
+        "name": "Echinococcus multilocularis enfeksiyonu, tanımlanmamış",
+        "abbreviation": "U59"
+    },
+    {
+        "name": "Karaciğerde Ekinokokoz, tanımlanmamış",
+        "abbreviation": "U60"
+    },
+    {
+        "name": "Ekinokokoz, diğer ve tanımlanmamış",
+        "abbreviation": "U61"
+    },
+    {
+        "name": "Tifüs",
+        "abbreviation": "U62"
+    },
+    {
+        "name": "Tifüs, Rickettsia prowazekii’ye bağlı epidemik bitle taşınan",
+        "abbreviation": "U63"
+    },
+    {
+        "name": "Nükseden tifüs [Brill hastalığı]",
+        "abbreviation": "U64"
+    },
+    {
+        "name": "Gonokok enfeksiyonu",
+        "abbreviation": "U65"
+    },
+    {
+        "name": "Gonokok enfeksiyonu, alt ürogenital yollarda periüretral ya da aksesuar bez apsesi yok",
+        "abbreviation": "U66"
+    },
+    {
+        "name": "Gonokok enfeksiyonu, alt ürogenital yollarda periüretral ya da aksesuar",
+        "abbreviation": "U67"
+    },
+    {
+        "name": "Gonokoksik pelviperitonit ve diğer gonokoksik ürogenital enfeksiyonlar",
+        "abbreviation": "U68"
+    },
+    {
+        "name": "Gonokoksik göz enfeksiyonu",
+        "abbreviation": "U69"
+    },
+    {
+        "name": "Gonokok enfeksiyonu, kas-iskelet sistemi",
+        "abbreviation": "U70"
+    },
+    {
+        "name": "Gonokoksik farenjit",
+        "abbreviation": "U71"
+    },
+    {
+        "name": "Anüs ve rektumun gonokok enfeksiyonu",
+        "abbreviation": "U72"
+    },
+    {
+        "name": "Gonokok enfeksiyonları, diğer",
+        "abbreviation": "U73"
+    },
+    {
+        "name": "Gonokok enfeksiyonu, tanımlanmamış",
+        "abbreviation": "U74"
+    },
+    {
+        "name": "Gonokokkal bursit",
+        "abbreviation": "U75"
+    },
+    {
+        "name": "Pelvik enflamatuvar hastalık, kadında, gonokokkal",
+        "abbreviation": "U76"
+    },
+    {
+        "name": "Gonore, gebelik, doğum ve lohusalığı komplike eden",
+        "abbreviation": "U77"
+    },
+    {
+        "name": "Hemorajik ateş, renal sendromla beraber (hantavirüse bağlı)",
+        "abbreviation": "U78"
+    },
+    {
+        "name": "Hantavirüs (Kardiyo-pulmoner sendrom [HPS] [HCPS])",
+        "abbreviation": "U79"
+    },
+    {
+        "name": "Akut Hepatit A",
+        "abbreviation": "U80"
+    },
+    {
+        "name": "Hepatit A, hepatik komalı",
+        "abbreviation": "U81"
+    },
+    {
+        "name": "Hepatit A, hepatik komasız",
+        "abbreviation": "U82"
+    },
+    {
+        "name": "Akut Hepatit B",
+        "abbreviation": "U83"
+    },
+    {
+        "name": "Akut Hepatit B, delta ajanı (ko-enfeksiyon) ile birlikte, hepatik komalı",
+        "abbreviation": "U84"
+    },
+    {
+        "name": "Akut Hepatit B, delta ajanı (ko-enfeksiyon) ile birlikte, hepatik komasız",
+        "abbreviation": "U85"
+    },
+    {
+        "name": "Akut Hepatit B, delta ajansız, hepatik komalı",
+        "abbreviation": "U86"
+    },
+    {
+        "name": "Akut Hepatit B, delta ajansız, hepatik komasız",
+        "abbreviation": "U87"
+    },
+    {
+        "name": "Akut Hepatit C",
+        "abbreviation": "U88"
+    },
+    {
+        "name": "Akut delta (süper) enfeksiyonu, Hepatit B taşıyıcısında",
+        "abbreviation": "U89"
+    },
+    {
+        "name": "Akut Hepatit E",
+        "abbreviation": "U90"
+    },
+    {
+        "name": "Influenza kesin tanımlanmış influenza virüsüne bağlı",
+        "abbreviation": "U91"
+    },
+    {
+        "name": "İnfluenza, belirlenmiş influenza virüsüne bağlı",
+        "abbreviation": "U92"
+    },
+    {
+        "name": "İnfluenza, pnömoni ile birlikte, influenza virüsü belirlenmiş",
+        "abbreviation": "U93"
+    },
+    {
+        "name": "İnfluenza, diğer solunum belirtiler ile, influenza virüsü belirlenmiş",
+        "abbreviation": "U94"
+    },
+    {
+        "name": "İnluenza; diğer belirtiler, influenza virüsü belirlenmiş",
+        "abbreviation": "U95"
+    },
+    {
+        "name": "Septisemi, haemophilus influenza'ya bağlı",
+        "abbreviation": "U96"
+    },
+    {
+        "name": "Hemofilus menenjiti",
+        "abbreviation": "U97"
+    },
+    {
+        "name": "Haemophilus influenzae bağlı Pnömoni",
+        "abbreviation": "U98"
+    },
+    {
+        "name": "Meningokok enfeksiyonu",
+        "abbreviation": "U99"
+    },
+    {
+        "name": "Meningokoksik menenjit",
+        "abbreviation": "U100"
+    },
+    {
+        "name": "Waterhouse-Friderichsen sendromu",
+        "abbreviation": "U101"
+    },
+    {
+        "name": "Akut meningokoksemi",
+        "abbreviation": "U102"
+    },
+    {
+        "name": "Kronik meningokoksemi",
+        "abbreviation": "U103"
+    },
+    {
+        "name": "Meningokoksemi, tanımlanmamış",
+        "abbreviation": "U104"
+    },
+    {
+        "name": "Meningokoksik kalp hastalığı",
+        "abbreviation": "U105"
+    },
+    {
+        "name": "Meningokoksik diğer enfeksiyonlar",
+        "abbreviation": "U106"
+    },
+    {
+        "name": "Meningokok enfeksiyonu, tanımlanmamış",
+        "abbreviation": "U107"
+    },
+    {
+        "name": "Septisemi, streptococcus pneumoniae",
+        "abbreviation": "U108"
+    },
+    {
+        "name": "Pnömokokkal menenjit",
+        "abbreviation": "U109"
+    },
+    {
+        "name": "Streptococcus pneumoniae'ye bağlı Pnömoni",
+        "abbreviation": "U110"
+    },
+    {
+        "name": "Kabakulak",
+        "abbreviation": "U111"
+    },
+    {
+        "name": "Kabakulak orşiti",
+        "abbreviation": "U112"
+    },
+    {
+        "name": "Kabakulak menenjiti",
+        "abbreviation": "U113"
+    },
+    {
+        "name": "Kabakulak ensefaliti",
+        "abbreviation": "U114"
+    },
+    {
+        "name": "Kabakulak pankreatiti",
+        "abbreviation": "U115"
+    },
+    {
+        "name": "Kabakulak, diğer komplikasyonlarla birlikte",
+        "abbreviation": "U116"
+    },
+    {
+        "name": "Kabakulak, komplikasyonsuz",
+        "abbreviation": "U117"
+    },
+    {
+        "name": "Visseral leishmaniasis (Kala-Azar)",
+        "abbreviation": "U118"
+    },
+    {
+        "name": "Viral Ensefalitler, kene ile taşınan",
+        "abbreviation": "U119"
+    },
+    {
+        "name": "Uzak doğu ensefaliti keneyle taşınan [rus bahar-yaz ensefaliti]",
+        "abbreviation": "U120"
+    },
+    {
+        "name": "Orta avrupa ensefaliti keneyle taşınan",
+        "abbreviation": "U121"
+    },
+    {
+        "name": "Viral diğer ensefalitler, keneyle taşınan",
+        "abbreviation": "U122"
+    },
+    {
+        "name": "Viral ensefalit keneyle taşınan, tanımlanmamış",
+        "abbreviation": "U123"
+    },
+    {
+        "name": "Kırım-Kongo hemorajik ateşi",
+        "abbreviation": "U124"
+    },
+    {
+        "name": "Kızamık",
+        "abbreviation": "U125"
+    },
+    {
+        "name": "Kızamık, ensefalit komplikasyonlu",
+        "abbreviation": "U126"
+    },
+    {
+        "name": "Kızamık, menenjit komplikasyonlu",
+        "abbreviation": "U127"
+    },
+    {
+        "name": "Kızamık, pnömoni komplikasyonlu",
+        "abbreviation": "U128"
+    },
+    {
+        "name": "Kızamık, otitis media komplikasyonlu",
+        "abbreviation": "U129"
+    },
+    {
+        "name": "Kızamık, bağırsak komplikasyonlu",
+        "abbreviation": "U130"
+    },
+    {
+        "name": "Kızamık, diğer komplikasyonlarla birlikte",
+        "abbreviation": "U131"
+    },
+    {
+        "name": "Kızamık, komplikasyonsuz",
+        "abbreviation": "U132"
+    },
+    {
+        "name": "Kızamıkçık [Rubella]",
+        "abbreviation": "U133"
+    },
+    {
+        "name": "Kızamıkçık, nörolojik komplikasyonlu",
+        "abbreviation": "U134"
+    },
+    {
+        "name": "Kızamıkçık, diğer komplikasyonlarla birlikte",
+        "abbreviation": "U135"
+    },
+    {
+        "name": "Kızamıkçık, komplikasyonsuz",
+        "abbreviation": "U136"
+    },
+    {
+        "name": "Kolera",
+        "abbreviation": "U137"
+    },
+    {
+        "name": "Kolera, Vibrio cholorea 01, biovar kolera’ya bağlı",
+        "abbreviation": "U138"
+    },
+    {
+        "name": "Kolera, Vibrio cholerae 01, biovar eltor’a bağlı",
+        "abbreviation": "U139"
+    },
+    {
+        "name": "Kolera, tanımlanmamış",
+        "abbreviation": "U140"
+    },
+    {
+        "name": "Konjenital kızamıkçık sendromu",
+        "abbreviation": "U141"
+    },
+    {
+        "name": "Konjenital sifiliz",
+        "abbreviation": "U142"
+    },
+    {
+        "name": "Erken konjenital sifiliz, semptomatik",
+        "abbreviation": "U143"
+    },
+    {
+        "name": "Erken konjenital sifiliz, latent",
+        "abbreviation": "U144"
+    },
+    {
+        "name": "Erken konjenital sifiliz, tanımlanmamış",
+        "abbreviation": "U145"
+    },
+    {
+        "name": "Geç konjenital sifilitik okülopati",
+        "abbreviation": "U146"
+    },
+    {
+        "name": "Geç konjenital nörosifiliz [juvenil nörosifiliz]",
+        "abbreviation": "U147"
+    },
+    {
+        "name": "Geç diğer konjenital sifilizler, semptomatik",
+        "abbreviation": "U148"
+    },
+    {
+        "name": "Geç konjenital sifiliz, latent",
+        "abbreviation": "U149"
+    },
+    {
+        "name": "Geç konjenital sifiliz, tanımlanmamış",
+        "abbreviation": "U150"
+    },
+    {
+        "name": "Konjenital sifiliz, tanımlanmamış",
+        "abbreviation": "U151"
+    },
+    {
+        "name": "Konjenital Zika virüs hastalığı",
+        "abbreviation": "U152"
+    },
+    {
+        "name": "Kuduz",
+        "abbreviation": "U153"
+    },
+    {
+        "name": "Lejyoner hastalığı",
+        "abbreviation": "U154"
+    },
+    {
+        "name": "Lepra [Hansen hastalığı]",
+        "abbreviation": "U155"
+    },
+    {
+        "name": "Belirsiz lepra",
+        "abbreviation": "U156"
+    },
+    {
+        "name": "Tüberküloid lepra",
+        "abbreviation": "U157"
+    },
+    {
+        "name": "Sınırda tüberküloid lepra",
+        "abbreviation": "U158"
+    },
+    {
+        "name": "Sınırda lepra",
+        "abbreviation": "U159"
+    },
+    {
+        "name": "Sınırda lepramatöz lepra",
+        "abbreviation": "U160"
+    },
+    {
+        "name": "Lepramatöz lepra",
+        "abbreviation": "U161"
+    },
+    {
+        "name": "Lepra, diğer formları",
+        "abbreviation": "U162"
+    },
+    {
+        "name": "Lepra, tanımlanmamış",
+        "abbreviation": "U163"
+    },
+    {
+        "name": "Leptospiroz",
+        "abbreviation": "U164"
+    },
+    {
+        "name": "İkterohemorajik leptospiroz",
+        "abbreviation": "U165"
+    },
+    {
+        "name": "Leptospiroz türleri, diğer formları",
+        "abbreviation": "U166"
+    },
+    {
+        "name": "Leptospiroz, tanımlanmamış",
+        "abbreviation": "U167"
+    },
+    {
+        "name": "Lyme hastalığı",
+        "abbreviation": "U168"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında",
+        "abbreviation": "U169"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, birden fazla yerde",
+        "abbreviation": "U170"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, omuz bölgesi",
+        "abbreviation": "U171"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, kol",
+        "abbreviation": "U172"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, ön kol",
+        "abbreviation": "U173"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, el",
+        "abbreviation": "U174"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, pelvik bölge ve kalça",
+        "abbreviation": "U175"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, bacak",
+        "abbreviation": "U176"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, ayak bileği ve ayak",
+        "abbreviation": "U177"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, diğer",
+        "abbreviation": "U178"
+    },
+    {
+        "name": "Artrit, Lyme hastalığında, yer tanımlanmamış",
+        "abbreviation": "U179"
+    },
+    {
+        "name": "MERS CoV Hastalığı",
+        "abbreviation": "U180"
+    },
+    {
+        "name": "Yenidoğan tetanozu",
+        "abbreviation": "U181"
+    },
+    {
+        "name": "Akut poliomyelit",
+        "abbreviation": "U182"
+    },
+    {
+        "name": "Akut paralitik poliomyelit, aşıya bağlı",
+        "abbreviation": "U183"
+    },
+    {
+        "name": "Akut paralitik poliomyelit, vahşi virüs, yabancı",
+        "abbreviation": "U184"
+    },
+    {
+        "name": "Akut paralitik poliomyelit, vahşi virüs, yerli",
+        "abbreviation": "U185"
+    },
+    {
+        "name": "Akut paralitik poliomyelit, diğer ve tanımlanmamış",
+        "abbreviation": "U186"
+    },
+    {
+        "name": "Akut nonparalitik poliomyelit",
+        "abbreviation": "U187"
+    },
+    {
+        "name": "Akut poliomyelit, tanımlanmamış",
+        "abbreviation": "U188"
+    },
+    {
+        "name": "Q-Ateşi",
+        "abbreviation": "U189"
+    },
+    {
+        "name": "Sarı humma",
+        "abbreviation": "U190"
+    },
+    {
+        "name": "Silvatik sarı humması",
+        "abbreviation": "U191"
+    },
+    {
+        "name": "Kent sarı humması",
+        "abbreviation": "U192"
+    },
+    {
+        "name": "Sarı humma, tanımlanmamış",
+        "abbreviation": "U193"
+    },
+    {
+        "name": "Plasmodium falciparum sıtması",
+        "abbreviation": "U194"
+    },
+    {
+        "name": "Plasmodium falciparum sıtması, serebral komplikasyon ile birlikte",
+        "abbreviation": "U195"
+    },
+    {
+        "name": "Plasmodium falciparum sıtması, diğer ağır ve komplikasyonlu",
+        "abbreviation": "U196"
+    },
+    {
+        "name": "Plasmodium falciparum sıtması, tanımlanmamış",
+        "abbreviation": "U197"
+    },
+    {
+        "name": "Plasmodium vivax sıtması",
+        "abbreviation": "U198"
+    },
+    {
+        "name": "Plasmodium vivax sıtması, dalak rüptürü ile beraber",
+        "abbreviation": "U199"
+    },
+    {
+        "name": "Plasmodium vivax sıtması, diğer komplikasyonlar ile beraber",
+        "abbreviation": "U200"
+    },
+    {
+        "name": "Plasmodium vivax sıtması, komplikasyonsuz",
+        "abbreviation": "U201"
+    },
+    {
+        "name": "Plasmodium malariae sıtması",
+        "abbreviation": "U202"
+    },
+    {
+        "name": "Plasmodium malariae sıtması, nefropati ile birlikte",
+        "abbreviation": "U203"
+    },
+    {
+        "name": "Plasmodium malariae sıtması, diğer komplikasyonlar ile birlikte",
+        "abbreviation": "U204"
+    },
+    {
+        "name": "Plasmodium malariae sıtması, komplikasyonsuz",
+        "abbreviation": "U205"
+    },
+    {
+        "name": "Sıtmalar, diğer, parazitolojik olarak kanıtlanmış",
+        "abbreviation": "U206"
+    },
+    {
+        "name": "Plasmodium ovale sıtması",
+        "abbreviation": "U207"
+    },
+    {
+        "name": "Simian plasmodia'ya bağlı sıtma",
+        "abbreviation": "U208"
+    },
+    {
+        "name": "Parazitolojik olarak kanıtlanmış diğer sıtma, başka yerde sınıflanmamış",
+        "abbreviation": "U209"
+    },
+    {
+        "name": "Sıtma, tanımlanmamış",
+        "abbreviation": "U210"
+    },
+    {
+        "name": "Konjenital falciparum sıtması",
+        "abbreviation": "U211"
+    },
+    {
+        "name": "Konjenital sıtma, diğer",
+        "abbreviation": "U212"
+    },
+    {
+        "name": "Erken sifiliz",
+        "abbreviation": "U213"
+    },
+    {
+        "name": "Primer genital sifiliz",
+        "abbreviation": "U214"
+    },
+    {
+        "name": "Primer anal sifiliz",
+        "abbreviation": "U215"
+    },
+    {
+        "name": "Primer sifiliz, diğer bölgelerde",
+        "abbreviation": "U216"
+    },
+    {
+        "name": "Sekonder sifiliz, deri ve muköz membranlarda",
+        "abbreviation": "U217"
+    },
+    {
+        "name": "Sekonder sifiliz, diğer",
+        "abbreviation": "U218"
+    },
+    {
+        "name": "Erken sifiliz, latent",
+        "abbreviation": "U219"
+    },
+    {
+        "name": "Erken sifiliz, tanımlanmamış",
+        "abbreviation": "U220"
+    },
+    {
+        "name": "Geç sifiliz",
+        "abbreviation": "U221"
+    },
+    {
+        "name": "Kardiyovasküler sifiliz",
+        "abbreviation": "U222"
+    },
+    {
+        "name": "Nörosifiliz, semptomatik",
+        "abbreviation": "U223"
+    },
+    {
+        "name": "Nörosifiliz, asemptomatik",
+        "abbreviation": "U224"
+    },
+    {
+        "name": "Nörosifiliz, tanımlanmamış",
+        "abbreviation": "U225"
+    },
+    {
+        "name": "Semptomatik geç sifiliz, diğer",
+        "abbreviation": "U226"
+    },
+    {
+        "name": "Geç sifiliz, latent",
+        "abbreviation": "U227"
+    },
+    {
+        "name": "Geç sifiliz, tanımlanmamış",
+        "abbreviation": "U228"
+    },
+    {
+        "name": "Sifiliz, diğer ve tanımlanmamış",
+        "abbreviation": "U229"
+    },
+    {
+        "name": "Latent sifiliz, erken ya da geç olarak tanımlanmamış",
+        "abbreviation": "U230"
+    },
+    {
+        "name": "Sifiliz, tanımlanmamış",
+        "abbreviation": "U231"
+    },
+    {
+        "name": "Sifilitik bursit",
+        "abbreviation": "U232"
+    },
+    {
+        "name": "Pelvik enflamatuvar hastalık, kadında, sifilitik",
+        "abbreviation": "U233"
+    },
+    {
+        "name": "Sifiliz, gebelik, doğum ve lohusalığı komplike eden",
+        "abbreviation": "U234"
+    },
+    {
+        "name": "Subakut sklerozan panensefalit",
+        "abbreviation": "U235"
+    },
+    {
+        "name": "Varisella [su çiçeği]",
+        "abbreviation": "U236"
+    },
+    {
+        "name": "Varisella menenjiti",
+        "abbreviation": "U237"
+    },
+    {
+        "name": "Varisella ensefaliti",
+        "abbreviation": "U238"
+    },
+    {
+        "name": "Varisella pnömonisi",
+        "abbreviation": "U239"
+    },
+    {
+        "name": "Varisella, diğer komplikasyonlarla birlikte",
+        "abbreviation": "U240"
+    },
+    {
+        "name": "Varisella, komplikasyonsuz",
+        "abbreviation": "U241"
+    },
+    {
+        "name": "Şarbon",
+        "abbreviation": "U242"
+    },
+    {
+        "name": "Deri şarbonu",
+        "abbreviation": "U243"
+    },
+    {
+        "name": "Pulmoner şarbon",
+        "abbreviation": "U244"
+    },
+    {
+        "name": "Gastrointestinal şarbon",
+        "abbreviation": "U245"
+    },
+    {
+        "name": "Şarbon septisemisi",
+        "abbreviation": "U246"
+    },
+    {
+        "name": "Şarbon türleri, diğer",
+        "abbreviation": "U247"
+    },
+    {
+        "name": "Şarbon, tanımlanmamış",
+        "abbreviation": "U248"
+    },
+    {
+        "name": "Leishmaniasis",
+        "abbreviation": "U249"
+    },
+    {
+        "name": "Deri leishmaniasisi",
+        "abbreviation": "U250"
+    },
+    {
+        "name": "Mukokutanöz leishmaniasis",
+        "abbreviation": "U251"
+    },
+    {
+        "name": "Leishmaniasis, tanımlanmamış",
+        "abbreviation": "U252"
+    },
+    {
+        "name": "Gebelik tetanozu",
+        "abbreviation": "U253"
+    },
+    {
+        "name": "Tetanoz, diğer",
+        "abbreviation": "U254"
+    },
+    {
+        "name": "Tifo",
+        "abbreviation": "U255"
+    },
+    {
+        "name": "Toksoplazmoz",
+        "abbreviation": "U256"
+    },
+    {
+        "name": "Toksoplazma okülopatisi",
+        "abbreviation": "U257"
+    },
+    {
+        "name": "Toksoplazma hepatiti",
+        "abbreviation": "U258"
+    },
+    {
+        "name": "Toksoplazma meningoensefaliti",
+        "abbreviation": "U259"
+    },
+    {
+        "name": "Akciğer toksoplazmozu",
+        "abbreviation": "U260"
+    },
+    {
+        "name": "Toksoplazmoz, başka organ tutulumuyla birlikte",
+        "abbreviation": "U261"
+    },
+    {
+        "name": "Toksoplazmoz, tanımlanmamış",
+        "abbreviation": "U262"
+    },
+    {
+        "name": "Konjenital toksoplazmozis",
+        "abbreviation": "U263"
+    },
+    {
+        "name": "Trahom",
+        "abbreviation": "U264"
+    },
+    {
+        "name": "Trahom başlangıç dönemi",
+        "abbreviation": "U265"
+    },
+    {
+        "name": "Trahom aktif dönemi",
+        "abbreviation": "U266"
+    },
+    {
+        "name": "Trahom, tanımlanmamış",
+        "abbreviation": "U267"
+    },
+    {
+        "name": "Trişinelloz",
+        "abbreviation": "U268"
+    },
+    {
+        "name": "Tularemi",
+        "abbreviation": "U269"
+    },
+    {
+        "name": "Ülseroglandüler tularemi",
+        "abbreviation": "U270"
+    },
+    {
+        "name": "Oküloglandüler tularemi",
+        "abbreviation": "U271"
+    },
+    {
+        "name": "Pulmoner tularemi",
+        "abbreviation": "U272"
+    },
+    {
+        "name": "Gastrointestinal tularemi",
+        "abbreviation": "U273"
+    },
+    {
+        "name": "Yaygın tularemi",
+        "abbreviation": "U274"
+    },
+    {
+        "name": "Tularemi, diğer formları",
+        "abbreviation": "U275"
+    },
+    {
+        "name": "Tularemi, tanımlanmamış",
+        "abbreviation": "U276"
+    },
+    {
+        "name": "Solunum yolları tüberkülozu, bakteriyolojik ve histolojik olarak kanıtlanmış",
+        "abbreviation": "U277"
+    },
+    {
+        "name": "Akciğer tüberkülozu, kültürlü ya da kültürsüz balgam mikroskopisi ile kanıtlanmış",
+        "abbreviation": "U278"
+    },
+    {
+        "name": "Akciğer tüberkülozu, sadece kültürle kanıtlanmış",
+        "abbreviation": "U279"
+    },
+    {
+        "name": "Akciğer tüberkülozu, histolojik olarak kanıtlanmış",
+        "abbreviation": "U280"
+    },
+    {
+        "name": "Akciğer tüberkülozu, tanımlanmamış yolla kanıtlanmış",
+        "abbreviation": "U281"
+    },
+    {
+        "name": "İntratorasik lenf nodu tüberkülozu, bakteriyolojik ve histolojik olarak kanıtlanmış",
+        "abbreviation": "U282"
+    },
+    {
+        "name": "Larinks, trakea ve bronş tüberkülozu, bakteriyolojik ve histolojik olarak kanıtlanmış",
+        "abbreviation": "U283"
+    },
+    {
+        "name": "Tüberküloz plörezi, bakteriyolojik ve histolojik olarak kanıtlanmış",
+        "abbreviation": "U284"
+    },
+    {
+        "name": "Primer solunum yolları tüberkülozu, bakteriyolojik ve histolojik olarak kanıtlanmış",
+        "abbreviation": "U285"
+    },
+    {
+        "name": "Solunum yolları diğer tüberkülozu, bakteriyolojik ve histolojik olarak kanıtlanmış",
+        "abbreviation": "U286"
+    },
+    {
+        "name": "Solunum yolları tüberkülozu tanımlanmamış, bakteriyolojik ve histolojik olarak kanıtlanmış",
+        "abbreviation": "U287"
+    },
+    {
+        "name": "Solunum yolları tüberkülozu, bakteriyolojik ve histolojik olarak kanıtlanmamış",
+        "abbreviation": "U288"
+    },
+    {
+        "name": "Akciğer tüberkülozu, bakteriyolojik ve histolojik olarak negatif",
+        "abbreviation": "U289"
+    },
+    {
+        "name": "Akciğer tüberkülozu, bakteriyolojik ve histolojik inceleme yapılmamış",
+        "abbreviation": "U290"
+    },
+    {
+        "name": "Akciğer tüberkülozu, bakteriyolojik ya da histolojik kanıt hakkında bilgi verilmemiş",
+        "abbreviation": "U291"
+    },
+    {
+        "name": "İntratorasik lenf nodları tüberkülozu, bakteriyolojik ya da histolojik tanı konulmamış",
+        "abbreviation": "U292"
+    },
+    {
+        "name": "Larinks, trakea ve bronş tüberkülozu, bakteriyolojik ya da histolojik tanı konulmamış",
+        "abbreviation": "U293"
+    },
+    {
+        "name": "Tüberküloz plörezi, bakteriyolojik ya da histolojik tanı konulmamış",
+        "abbreviation": "U294"
+    },
+    {
+        "name": "Primer solunum yolları tüberkülozu, bakteriyolojik ya da histolojik tanı konulmamış",
+        "abbreviation": "U295"
+    },
+    {
+        "name": "Primer solunum yolları diğer tüberkülozu, bakteriyolojik ya da histolojik tanı konulmamış",
+        "abbreviation": "U296"
+    },
+    {
+        "name": "Solunum yolları tüberkülozu, bakteriyolojik ya da histolojik tanı konulmamış",
+        "abbreviation": "U297"
+    },
+    {
+        "name": "Sinir sistemi tüberkülozu",
+        "abbreviation": "U298"
+    },
+    {
+        "name": "Tüberküloz menenjit",
+        "abbreviation": "U299"
+    },
+    {
+        "name": "Menenjial tüberkülom",
+        "abbreviation": "U300"
+    },
+    {
+        "name": "Sinir sisteminin tüberkülozu, diğer",
+        "abbreviation": "U301"
+    },
+    {
+        "name": "Sinir sistemi tüberkülozu, tanımlanmamış",
+        "abbreviation": "U302"
+    },
+    {
+        "name": "Organların tüberkülozu, diğer",
+        "abbreviation": "U303"
+    },
+    {
+        "name": "Kemik ve eklem tüberkülozu",
+        "abbreviation": "U304"
+    },
+    {
+        "name": "Ürogenital sistem tüberkülozu",
+        "abbreviation": "U305"
+    },
+    {
+        "name": "Tüberküloz periferik lenfadenopati",
+        "abbreviation": "U306"
+    },
+    {
+        "name": "Bağırsak, periton ve mezenterik lenf bezi tüberkülozu",
+        "abbreviation": "U307"
+    },
+    {
+        "name": "Deri ve derialtı dokusu tüberkülozu",
+        "abbreviation": "U308"
+    },
+    {
+        "name": "Göz tüberkülozu",
+        "abbreviation": "U309"
+    },
+    {
+        "name": "Kulak tüberkülozu",
+        "abbreviation": "U310"
+    },
+    {
+        "name": "Adrenal bezlerin tüberkülozu",
+        "abbreviation": "U311"
+    },
+    {
+        "name": "Tüberküloz, diğer tanımlanmış organların",
+        "abbreviation": "U312"
+    },
+    {
+        "name": "Miliyer tüberküloz",
+        "abbreviation": "U313"
+    },
+    {
+        "name": "Akut miliyer tüberküloz, tanımlanmış tek bir yerin",
+        "abbreviation": "U314"
+    },
+    {
+        "name": "Akut miliyer tüberküloz, birden fazla yerin",
+        "abbreviation": "U315"
+    },
+    {
+        "name": "Akut miliyer tüberküloz, tanımlanmamış",
+        "abbreviation": "U316"
+    },
+    {
+        "name": "Miliyer diğer tüberkülozlar",
+        "abbreviation": "U317"
+    },
+    {
+        "name": "Miliyer tüberküloz, tanımlanmamış",
+        "abbreviation": "U318"
+    },
+    {
+        "name": "Pnömokonyoz, tüberküloz ile birlikte",
+        "abbreviation": "U319"
+    },
+    {
+        "name": "Tüberküloz özofajiti",
+        "abbreviation": "U320"
+    },
+    {
+        "name": "Tüberküloz peritoniti",
+        "abbreviation": "U321"
+    },
+    {
+        "name": "Barsaklar, periton ve mezenterik bezlerin tüberküloz bozuklukları",
+        "abbreviation": "U322"
+    },
+    {
+        "name": "Tüberküloz artrit",
+        "abbreviation": "U323"
+    },
+    {
+        "name": "Tüberküloz artrit, birden fazla yer",
+        "abbreviation": "U324"
+    },
+    {
+        "name": "Tüberküloz artrit, omuz bölgesi",
+        "abbreviation": "U325"
+    },
+    {
+        "name": "Tüberküloz artrit, kol",
+        "abbreviation": "U326"
+    },
+    {
+        "name": "Tüberküloz artrit, ön kol",
+        "abbreviation": "U327"
+    },
+    {
+        "name": "Tüberküloz artrit, el",
+        "abbreviation": "U328"
+    },
+    {
+        "name": "Tüberküloz artrit, pelvik bölge ve kalça",
+        "abbreviation": "U329"
+    },
+    {
+        "name": "Tüberküloz artrit, bacak",
+        "abbreviation": "U330"
+    },
+    {
+        "name": "Tüberküloz artrit, ayak bileği ve ayak",
+        "abbreviation": "U331"
+    },
+    {
+        "name": "Tüberküloz artrit, diğer",
+        "abbreviation": "U332"
+    },
+    {
+        "name": "Tüberküloz artrit, yer tanımlanmamış",
+        "abbreviation": "U333"
+    },
+    {
+        "name": "Vertebra tüberkülozu",
+        "abbreviation": "U334"
+    },
+    {
+        "name": "Vertebra tüberkülozu, birden fazla yer, vertebrada",
+        "abbreviation": "U335"
+    },
+    {
+        "name": "Vertebra tüberkülozu, oksipito-atlanto-aksial bölge",
+        "abbreviation": "U336"
+    },
+    {
+        "name": "Vertebra tüberkülozu, servikal bölge",
+        "abbreviation": "U337"
+    },
+    {
+        "name": "Vertebra tüberkülozu, servikotorasik bölge",
+        "abbreviation": "U338"
+    },
+    {
+        "name": "Vertebra tüberkülozu, torasik bölge",
+        "abbreviation": "U339"
+    },
+    {
+        "name": "Vertebra tüberkülozu, torakolomber bölge",
+        "abbreviation": "U340"
+    },
+    {
+        "name": "Vertebra tüberkülozu, lomber bölge",
+        "abbreviation": "U341"
+    },
+    {
+        "name": "Vertebra tüberkülozu, lumbosakral bölge",
+        "abbreviation": "U342"
+    },
+    {
+        "name": "Vertebra tüberkülozu, sakral ve sakrokoksigeal bölge",
+        "abbreviation": "U343"
+    },
+    {
+        "name": "Vertebra tüberkülozu, yer tanımlanmamış",
+        "abbreviation": "U344"
+    },
+    {
+        "name": "Kemik tüberkülozu",
+        "abbreviation": "U345"
+    },
+    {
+        "name": "Kemik tüberkülozu, birden fazla yer",
+        "abbreviation": "U346"
+    },
+    {
+        "name": "Kemik tüberkülozu, omuz bölgesi",
+        "abbreviation": "U347"
+    },
+    {
+        "name": "Kemik tüberkülozu, kol",
+        "abbreviation": "U348"
+    },
+    {
+        "name": "Kemik tüberkülozu, ön kol",
+        "abbreviation": "U349"
+    },
+    {
+        "name": "Kemik tüberkülozu, el",
+        "abbreviation": "U350"
+    },
+    {
+        "name": "Kemik tüberkülozu, pelvik bölge ve kalça",
+        "abbreviation": "U351"
+    },
+    {
+        "name": "Kemik tüberkülozu, bacak",
+        "abbreviation": "U352"
+    },
+    {
+        "name": "Kemik tüberkülozu, ayak ve ayak bileği",
+        "abbreviation": "U353"
+    },
+    {
+        "name": "Kemiğin tüberkülozu, diğer",
+        "abbreviation": "U354"
+    },
+    {
+        "name": "Kemiğin tüberkülozu, yer tanımlanmamış",
+        "abbreviation": "U355"
+    },
+    {
+        "name": "Tüberküloz sistit",
+        "abbreviation": "U356"
+    },
+    {
+        "name": "Serviks uterinin tüberküloz enfeksiyonu",
+        "abbreviation": "U357"
+    },
+    {
+        "name": "Pelvik enflamatuvar hastalık, kadında, tüberküloza bağlı",
+        "abbreviation": "U358"
+    },
+    {
+        "name": "Tüberküloz, gebelik, doğum ve lohusalığı komplike eden",
+        "abbreviation": "U359"
+    },
+    {
+        "name": "Konjenital tüberküloz",
+        "abbreviation": "U360"
+    },
+    {
+        "name": "Veba",
+        "abbreviation": "U361"
+    },
+    {
+        "name": "Bubonik veba",
+        "abbreviation": "U362"
+    },
+    {
+        "name": "Selülokutanöz veba",
+        "abbreviation": "U363"
+    },
+    {
+        "name": "Pnömonik veba",
+        "abbreviation": "U364"
+    },
+    {
+        "name": "Veba menenjiti",
+        "abbreviation": "U365"
+    },
+    {
+        "name": "Septisemik veba",
+        "abbreviation": "U366"
+    },
+    {
+        "name": "Veba, diğer formları",
+        "abbreviation": "U367"
+    },
+    {
+        "name": "Veba, tanımlanmamış",
+        "abbreviation": "U368"
+    },
+    {
+        "name": "Rift vadi ateşi",
+        "abbreviation": "U369"
+    },
+    {
+        "name": "Lassa ateşi",
+        "abbreviation": "U370"
+    },
+    {
+        "name": "Viral hemorajik ateşler, diğer, başka yerde sınıflanmamış",
+        "abbreviation": "U371"
+    },
+    {
+        "name": "Omsk hemorajik ateşi",
+        "abbreviation": "U372"
+    },
+    {
+        "name": "Kyasanur orman hastalığı",
+        "abbreviation": "U373"
+    },
+    {
+        "name": "Marburg virüsü hastalığı",
+        "abbreviation": "U374"
+    },
+    {
+        "name": "Viral diğer hemorajik ateşler, tanımlanmış",
+        "abbreviation": "U375"
+    },
+    {
+        "name": "Yeni Varyant Creutzfeldt-Jacob Hastalığı",
+        "abbreviation": "U376"
+    },
+    {
+        "name": "Zika virüs hastalığı",
+        "abbreviation": "U377"
+    },
+    {
+        "name": "Zika virüs hastalığı, tanımlanmamış",
+        "abbreviation": "U378"
+    }
+]
