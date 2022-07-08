@@ -1,0 +1,1182 @@
+﻿[
+    {
+        "country": "VATANSIZ",
+        "code": "--",
+        "mernis": "8700"
+    },
+    {
+        "country": "ANDORRA PRENSLİĞİ",
+        "code": "AD",
+        "mernis": "9795"
+    },
+    {
+        "country": "BİRLEŞİK ARAP EMİRLİKLERİ",
+        "code": "AE",
+        "mernis": "9984"
+    },
+    {
+        "country": "AFGANİSTAN İSLAM CUMHURİYETİ",
+        "code": "AF",
+        "mernis": "9840"
+    },
+    {
+        "country": "ANTİGUA VE BARBUDA",
+        "code": "AG",
+        "mernis": "9844"
+    },
+    {
+        "country": "ARNAVUTLUK CUMHURİYETİ",
+        "code": "AL",
+        "mernis": "9841"
+    },
+    {
+        "country": "ERMENİSTAN CUMHURİYETİ",
+        "code": "AM",
+        "mernis": "9819"
+    },
+    {
+        "country": "ANGOLA CUMHURİYETİ",
+        "code": "AO",
+        "mernis": "9843"
+    },
+    {
+        "country": "ARJANTİN CUMHURİYETİ",
+        "code": "AR",
+        "mernis": "9845"
+    },
+    {
+        "country": "SAMOA BAĞIMSIZ DEVLETİ",
+        "code": "AS",
+        "mernis": "9958"
+    },
+    {
+        "country": "AVUSTURYA CUMHURİYETİ",
+        "code": "AT",
+        "mernis": "9847"
+    },
+    {
+        "country": "AVUSTRALYA",
+        "code": "AU",
+        "mernis": "9846"
+    },
+    {
+        "country": "AZERBAYCAN CUMHURİYETİ",
+        "code": "AZ",
+        "mernis": "9814"
+    },
+    {
+        "country": "BOSNA HERSEK",
+        "code": "BA",
+        "mernis": "9816"
+    },
+    {
+        "country": "BARBADOS",
+        "code": "BB",
+        "mernis": "9851"
+    },
+    {
+        "country": "BANGLADEŞ HALK CUMHURİYETİ",
+        "code": "BD",
+        "mernis": "9850"
+    },
+    {
+        "country": "BELÇİKA KRALLIĞI",
+        "code": "BE",
+        "mernis": "9852"
+    },
+    {
+        "country": "BURKİNA FASO",
+        "code": "BF",
+        "mernis": "9797"
+    },
+    {
+        "country": "BULGARİSTAN CUMHURİYETİ",
+        "code": "BG",
+        "mernis": "9859"
+    },
+    {
+        "country": "BAHREYN KRALLIĞI",
+        "code": "BH",
+        "mernis": "9849"
+    },
+    {
+        "country": "BURUNDİ CUMHURİYETİ",
+        "code": "BI",
+        "mernis": "9861"
+    },
+    {
+        "country": "BENİN CUMHURİYETİ",
+        "code": "BJ",
+        "mernis": "9854"
+    },
+    {
+        "country": "BRUNEİ DARUSSELAM",
+        "code": "BN",
+        "mernis": "9796"
+    },
+    {
+        "country": "BOLİVYA ÇOKULUSLU DEVLETİ",
+        "code": "BO",
+        "mernis": "9856"
+    },
+    {
+        "country": "BREZİLYA FEDERATİF CUMHURİYETİ",
+        "code": "BR",
+        "mernis": "9858"
+    },
+    {
+        "country": "BAHAMALAR",
+        "code": "BS",
+        "mernis": "9848"
+    },
+    {
+        "country": "BUTAN KRALLIĞI",
+        "code": "BT",
+        "mernis": "9855"
+    },
+    {
+        "country": "BOTSVANA CUMHURİYETİ",
+        "code": "BW",
+        "mernis": "9857"
+    },
+    {
+        "country": "BELARUS CUMHURİYETİ",
+        "code": "BY",
+        "mernis": "9815"
+    },
+    {
+        "country": "BELİZE",
+        "code": "BZ",
+        "mernis": "9853"
+    },
+    {
+        "country": "KANADA",
+        "code": "CA",
+        "mernis": "9863"
+    },
+    {
+        "country": "KONGO DEMOKRATİK CUMHURİYETİ",
+        "code": "CD",
+        "mernis": "9871"
+    },
+    {
+        "country": "KONGO CUMHURİYETİ",
+        "code": "CG",
+        "mernis": "9778"
+    },
+    {
+        "country": "İSVİÇRE KONFEDERASYONU",
+        "code": "CH",
+        "mernis": "9974"
+    },
+    {
+        "country": "FİLDİŞİ SAHİLİ CUMHURİYETİ",
+        "code": "CI",
+        "mernis": "9912"
+    },
+    {
+        "country": "ŞİLİ CUMHURİYETİ",
+        "code": "CL",
+        "mernis": "9867"
+    },
+    {
+        "country": "KAMERUN CUMHURİYETİ",
+        "code": "CM",
+        "mernis": "9986"
+    },
+    {
+        "country": "ÇİN HALK CUMHURİYETİ",
+        "code": "CN",
+        "mernis": "9868"
+    },
+    {
+        "country": "KOLOMBİYA CUMHURİYETİ",
+        "code": "CO",
+        "mernis": "9869"
+    },
+    {
+        "country": "KOSTA RİKA CUMHURİYETİ",
+        "code": "CR",
+        "mernis": "9872"
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "KÜBA CUMHURİYETİ",
+        "code": "CU",
+        "mernis": "9873"
+    },
+    {
+        "country": "GÜNEY KIBRIS RUM YÖNETİMİ",
+        "code": "CY",
+        "mernis": "9874"
+    },
+    {
+        "country": "ÇEK CUMHURİYETİ",
+        "code": "CZ",
+        "mernis": "9817"
+    },
+    {
+        "country": "ALMANYA FEDERAL CUMHURİYETİ",
+        "code": "DE",
+        "mernis": "9893"
+    },
+    {
+        "country": "CİBUTİ CUMHURİYETİ",
+        "code": "DJ",
+        "mernis": "9880"
+    },
+    {
+        "country": "DANİMARKA KRALLIĞI",
+        "code": "DK",
+        "mernis": "9879"
+    },
+    {
+        "country": "DOMİNİKA",
+        "code": "DM",
+        "mernis": "9881"
+    },
+    {
+        "country": "DOMİNİK CUMHURİYETİ",
+        "code": "DO",
+        "mernis": "9882"
+    },
+    {
+        "country": "CEZAYİR DEMOKRATİK HALK CUMHURİYETİ",
+        "code": "DZ",
+        "mernis": "9842"
+    },
+    {
+        "country": "EKVATOR CUMHURİYETİ",
+        "code": "EC",
+        "mernis": "9883"
+    },
+    {
+        "country": "ESTONYA CUMHURİYETİ",
+        "code": "EE",
+        "mernis": "9820"
+    },
+    {
+        "country": "MISIR ARAP CUMHURİYETİ",
+        "code": "EG",
+        "mernis": "9884"
+    },
+    {
+        "country": "ERİTRE DEVLETİ",
+        "code": "ER",
+        "mernis": "9818"
+    },
+    {
+        "country": "İSPANYA KRALLIĞI",
+        "code": "ES",
+        "mernis": "9968"
+    },
+    {
+        "country": "ETİYOPYA FEDERAL DEMOKRATİK CUMHURİYETİ",
+        "code": "ET",
+        "mernis": "9887"
+    },
+    {
+        "country": "FİNLANDİYA CUMHURİYETİ",
+        "code": "FI",
+        "mernis": "9889"
+    },
+    {
+        "country": "FİJİ CUMHURİYETİ",
+        "code": "FJ",
+        "mernis": "9888"
+    },
+    {
+        "country": "MİKRONEZYA FEDERE DEVLETLERİ",
+        "code": "FM",
+        "mernis": "9828"
+    },
+    {
+        "country": "FRANSA CUMHURİYETİ",
+        "code": "FR",
+        "mernis": "9890"
+    },
+    {
+        "country": "GABON CUMHURİYETİ",
+        "code": "GA",
+        "mernis": "9891"
+    },
+    {
+        "country": "BÜYÜK BRİTANYA VE KUZEY İRLANDA BİRLEŞİK KRALLIĞI",
+        "code": "GB",
+        "mernis": "9985"
+    },
+    {
+        "country": "GRENADA",
+        "code": "GD",
+        "mernis": "9896"
+    },
+    {
+        "country": "GÜRCİSTAN CUMHURİYETİ",
+        "code": "GE",
+        "mernis": "9821"
+    },
+    {
+        "country": "GANA CUMHURİYETİ",
+        "code": "GH",
+        "mernis": "9894"
+    },
+    {
+        "country": "GAMBİYA CUMHURİYETİ",
+        "code": "GM",
+        "mernis": "9798"
+    },
+    {
+        "country": "GİNE CUMHURİYETİ",
+        "code": "GN",
+        "mernis": "9898"
+    },
+    {
+        "country": "EKVATOR GİNESİ CUMHURİYETİ",
+        "code": "GQ",
+        "mernis": "9886"
+    },
+    {
+        "country": "YUNANİSTAN CUMHURİYETİ",
+        "code": "GR",
+        "mernis": "9895"
+    },
+    {
+        "country": "GUATEMALA CUMHURİYETİ",
+        "code": "GT",
+        "mernis": "9897"
+    },
+    {
+        "country": "GİNE-BİSSAU CUMHURİYETİ",
+        "code": "GW",
+        "mernis": "9899"
+    },
+    {
+        "country": "GUYANA KOOPERATİF CUMHURİYETİ",
+        "code": "GY",
+        "mernis": "9900"
+    },
+    {
+        "country": "HONDURAS CUMHURİYETİ",
+        "code": "HN",
+        "mernis": "9902"
+    },
+    {
+        "country": "HIRVATİSTAN CUMHURİYETİ",
+        "code": "HR",
+        "mernis": "9810"
+    },
+    {
+        "country": "HAİTİ CUMHURİYETİ",
+        "code": "HT",
+        "mernis": "9901"
+    },
+    {
+        "country": "MACARİSTAN",
+        "code": "HU",
+        "mernis": "9903"
+    },
+    {
+        "country": "ENDONEZYA CUMHURİYETİ",
+        "code": "\"ID\"",
+        "mernis": "9906"
+    },
+    {
+        "country": "İRLANDA CUMHURİYETİ",
+        "code": "IE",
+        "mernis": "9909"
+    },
+    {
+        "country": "İSRAİL DEVLETİ",
+        "code": "IL",
+        "mernis": "9910"
+    },
+    {
+        "country": "HİNDİSTAN CUMHURİYETİ",
+        "code": "IN",
+        "mernis": "9905"
+    },
+    {
+        "country": "IRAK CUMHURİYETİ",
+        "code": "IQ",
+        "mernis": "9908"
+    },
+    {
+        "country": "İRAN İSLAM CUMHURİYETİ",
+        "code": "IR",
+        "mernis": "9907"
+    },
+    {
+        "country": "İZLANDA CUMHURİYETİ",
+        "code": "IS",
+        "mernis": "9904"
+    },
+    {
+        "country": "İTALYA CUMHURİYETİ",
+        "code": "IT",
+        "mernis": "9911"
+    },
+    {
+        "country": "JAMAİKA",
+        "code": "JM",
+        "mernis": "9913"
+    },
+    {
+        "country": "ÜRDÜN HAŞİMİ KRALLIĞI",
+        "code": "JO",
+        "mernis": "9915"
+    },
+    {
+        "country": "JAPONYA",
+        "code": "JP",
+        "mernis": "9914"
+    },
+    {
+        "country": "KENYA CUMHURİYETİ",
+        "code": "KE",
+        "mernis": "9916"
+    },
+    {
+        "country": "KIRGIZ CUMHURİYETİ",
+        "code": "KG",
+        "mernis": "9823"
+    },
+    {
+        "country": "KAMBOÇYA KRALLIĞI",
+        "code": "KH",
+        "mernis": "9877"
+    },
+    {
+        "country": "KİRİBATİ CUMHURİYETİ",
+        "code": "KI",
+        "mernis": "9800"
+    },
+    {
+        "country": "KUZEY KIBRIS TÜRK CUMHURİYETİ",
+        "code": "KK",
+        "mernis": "9875"
+    },
+    {
+        "country": "KOMORLAR BİRLİĞİ",
+        "code": "KM",
+        "mernis": "9870"
+    },
+    {
+        "country": "SAİNT KİTTS VE NEVİS FEDERASYONU",
+        "code": "KN",
+        "mernis": "9806"
+    },
+    {
+        "country": "KOSOVA CUMHURİYETİ",
+        "code": "KO",
+        "mernis": "9773"
+    },
+    {
+        "country": "KORE DEMOKRATİK HALK CUMHURİYETİ",
+        "code": "KP",
+        "mernis": "9775"
+    },
+    {
+        "country": "KORE CUMHURİYETİ",
+        "code": "KR",
+        "mernis": "9809"
+    },
+    {
+        "country": "KUVEYT DEVLETİ",
+        "code": "KW",
+        "mernis": "9917"
+    },
+    {
+        "country": "KAZAKİSTAN CUMHURİYETİ",
+        "code": "KZ",
+        "mernis": "9822"
+    },
+    {
+        "country": "LAOS DEMOKRATİK HALK CUMHURİYETİ",
+        "code": "LA",
+        "mernis": "9918"
+    },
+    {
+        "country": "LÜBNAN CUMHURİYETİ",
+        "code": "LB",
+        "mernis": "9919"
+    },
+    {
+        "country": "SAİNT LUCİA",
+        "code": "LC",
+        "mernis": "9956"
+    },
+    {
+        "country": "LİHTENŞTAYN PRENSLİĞİ",
+        "code": "LI",
+        "mernis": "9923"
+    },
+    {
+        "country": "SRİ LANKA DEMOKRATİK SOSYALİST CUMHURİYETİ",
+        "code": "LK",
+        "mernis": "9969"
+    },
+    {
+        "country": "LİBERYA CUMHURİYETİ",
+        "code": "LR",
+        "mernis": "9921"
+    },
+    {
+        "country": "LESOTHO KRALLIĞI",
+        "code": "LS",
+        "mernis": "9920"
+    },
+    {
+        "country": "LİTVANYA CUMHURİYETİ",
+        "code": "LT",
+        "mernis": "9825"
+    },
+    {
+        "country": "LÜKSEMBURG BÜYÜK DÜKALIĞI",
+        "code": "LU",
+        "mernis": "9924"
+    },
+    {
+        "country": "LETONYA CUMHURİYETİ",
+        "code": "LV",
+        "mernis": "9824"
+    },
+    {
+        "country": "LİBYA DEVLETİ",
+        "code": "LY",
+        "mernis": "9922"
+    },
+    {
+        "country": "BİRLEŞİK MEKSİKA DEVLETLERİ",
+        "code": "M",
+        "mernis": "9933"
+    },
+    {
+        "country": "FAS KRALLIĞI",
+        "code": "MA",
+        "mernis": "9935"
+    },
+    {
+        "country": "MONAKO PRENSLİĞİ",
+        "code": "MC",
+        "mernis": "9801"
+    },
+    {
+        "country": "MOLDOVA CUMHURİYETİ",
+        "code": "MD",
+        "mernis": "9829"
+    },
+    {
+        "country": "KARADAĞ",
+        "code": "ME",
+        "mernis": "9770"
+    },
+    {
+        "country": "MADAGASKAR CUMHURİYETİ",
+        "code": "MG",
+        "mernis": "9925"
+    },
+    {
+        "country": "MARŞAL ADALARI CUMHURİYETİ",
+        "code": "MH",
+        "mernis": "9827"
+    },
+    {
+        "country": "MAKEDONYA CUMHURİYETİ",
+        "code": "MK",
+        "mernis": "9826"
+    },
+    {
+        "country": "MALİ CUMHURİYETİ",
+        "code": "ML",
+        "mernis": "9929"
+    },
+    {
+        "country": "MYANMAR BİRLİĞİ CUMHURİYETİ",
+        "code": "MM",
+        "mernis": "9802"
+    },
+    {
+        "country": "BURMA",
+        "code": "MM",
+        "mernis": "9860"
+    },
+    {
+        "country": "MOĞOLİSTAN",
+        "code": "MN",
+        "mernis": "9934"
+    },
+    {
+        "country": "MORİTANYA İSLAM CUMHURİYETİ",
+        "code": "MR",
+        "mernis": "9931"
+    },
+    {
+        "country": "MALTA CUMHURİYETİ",
+        "code": "MT",
+        "mernis": "9930"
+    },
+    {
+        "country": "MAURİTİUS CUMHURİYETİ",
+        "code": "MU",
+        "mernis": "9932"
+    },
+    {
+        "country": "MALDİVLER CUMHURİYETİ",
+        "code": "MV",
+        "mernis": "9928"
+    },
+    {
+        "country": "MALAVİ CUMHURİYETİ",
+        "code": "MW",
+        "mernis": "9926"
+    },
+    {
+        "country": "MALEZYA",
+        "code": "MY",
+        "mernis": "9927"
+    },
+    {
+        "country": "MOZAMBİK CUMHURİYETİ",
+        "code": "MZ",
+        "mernis": "9936"
+    },
+    {
+        "country": "NAMİBYA CUMHURİYETİ",
+        "code": "NA",
+        "mernis": "9830"
+    },
+    {
+        "country": "NİJER CUMHURİYETİ",
+        "code": "NE",
+        "mernis": "9941"
+    },
+    {
+        "country": "NİJERYA FEDERAL CUMHURİYETİ",
+        "code": "NG",
+        "mernis": "9942"
+    },
+    {
+        "country": "NİKARAGUA CUMHURİYETİ",
+        "code": "NI",
+        "mernis": "9940"
+    },
+    {
+        "country": "HOLLANDA KRALLIĞI",
+        "code": "NL",
+        "mernis": "9938"
+    },
+    {
+        "country": "NORVEÇ KRALLIĞI",
+        "code": "NO",
+        "mernis": "9943"
+    },
+    {
+        "country": "NEPAL FEDERAL DEMOKRATİK CUMHURİYETİ",
+        "code": "NP",
+        "mernis": "9937"
+    },
+    {
+        "country": "NAURU CUMHURİYETİ",
+        "code": "NR",
+        "mernis": "9803"
+    },
+    {
+        "country": "YENİ ZELANDA",
+        "code": "NZ",
+        "mernis": "9939"
+    },
+    {
+        "country": "UMMAN SULTANLIĞI",
+        "code": "OM",
+        "mernis": "9944"
+    },
+    {
+        "country": "PANAMA CUMHURİYETİ",
+        "code": "PA",
+        "mernis": "9946"
+    },
+    {
+        "country": "PERU CUMHURİYETİ",
+        "code": "PE",
+        "mernis": "9949"
+    },
+    {
+        "country": "PAPUA YENİ GİNE BAĞIMSIZ DEVLETİ",
+        "code": "PG",
+        "mernis": "9947"
+    },
+    {
+        "country": "FİLİPİNLER CUMHURİYETİ",
+        "code": "PH",
+        "mernis": "9950"
+    },
+    {
+        "country": "PAKİSTAN İSLAM CUMHURİYETİ",
+        "code": "PK",
+        "mernis": "9945"
+    },
+    {
+        "country": "POLONYA CUMHURİYETİ",
+        "code": "PL",
+        "mernis": "9951"
+    },
+    {
+        "country": "FİLİSTİN DEVLETİ",
+        "code": "PS",
+        "mernis": "9812"
+    },
+    {
+        "country": "PORTEKİZ CUMHURİYETİ",
+        "code": "PT",
+        "mernis": "9952"
+    },
+    {
+        "country": "PALAU CUMHURİYETİ",
+        "code": "PW",
+        "mernis": "9804"
+    },
+    {
+        "country": "PARAGUAY CUMHURİYETİ",
+        "code": "PY",
+        "mernis": "9948"
+    },
+    {
+        "country": "KATAR DEVLETİ",
+        "code": "QA",
+        "mernis": "9953"
+    },
+    {
+        "country": "ROMANYA",
+        "code": "RO",
+        "mernis": "9954"
+    },
+    {
+        "country": "SIRBİSTAN CUMHURİYETİ",
+        "code": "RS",
+        "mernis": "9771"
+    },
+    {
+        "country": "RUSYA FED. / BAŞKURDİSTAN CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9774"
+    },
+    {
+        "country": "RUSYA FED. / ALTAY CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9776"
+    },
+    {
+        "country": "RUSYA FED. / ADIGE CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9777"
+    },
+    {
+        "country": "RUSYA FED. / BURYAT CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9779"
+    },
+    {
+        "country": "RUSYA FED. / İNGUŞETYA CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9780"
+    },
+    {
+        "country": "RUSYA FED. / KABARDİN-BALKARYA CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9781"
+    },
+    {
+        "country": "RUSYA FED. / KALMIKYA CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9782"
+    },
+    {
+        "country": "RUSYA FED. / KARAÇAY-ÇERKES CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9783"
+    },
+    {
+        "country": "RUSYA FED. / KARELYA CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9784"
+    },
+    {
+        "country": "RUSYA FED. / KOMİ CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9785"
+    },
+    {
+        "country": "RUSYA FED. / MARİ EL CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9786"
+    },
+    {
+        "country": "RUSYA FED. / MORDOVYA CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9787"
+    },
+    {
+        "country": "RUSYA FED. / SAHA CUMHURİYETİ (YAKUTİSTAN)",
+        "code": "RU",
+        "mernis": "9788"
+    },
+    {
+        "country": "RUSYA FED. / KUZEY OSETYA-ALANYA CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9789"
+    },
+    {
+        "country": "RUSYA FED. / TATARİSTAN CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9790"
+    },
+    {
+        "country": "RUSYA FED. / TIVA CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9791"
+    },
+    {
+        "country": "RUSYA FED. / UDMURT CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9792"
+    },
+    {
+        "country": "RUSYA FED. / HAKASYA CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9793"
+    },
+    {
+        "country": "RUSYA FED. / ÇUVAŞİSTAN CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9794"
+    },
+    {
+        "country": "RUSYA FED. / DAĞISTAN CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9813"
+    },
+    {
+        "country": "RUSYA FED. / ÇEÇENİSTAN CUMHURİYETİ",
+        "code": "RU",
+        "mernis": "9811"
+    },
+    {
+        "country": "RUSYA FEDERASYONU",
+        "code": "RU",
+        "mernis": "9831"
+    },
+    {
+        "country": "RUANDA CUMHURİYETİ",
+        "code": "RW",
+        "mernis": "9955"
+    },
+    {
+        "country": "SUUDİ ARABİSTAN KRALLIĞI",
+        "code": "SA",
+        "mernis": "9960"
+    },
+    {
+        "country": "SOLOMON ADALARI",
+        "code": "SB",
+        "mernis": "9965"
+    },
+    {
+        "country": "SEYŞELLER CUMHURİYETİ",
+        "code": "SC",
+        "mernis": "9962"
+    },
+    {
+        "country": "SUDAN CUMHURİYETİ",
+        "code": "SD",
+        "mernis": "9970"
+    },
+    {
+        "country": "GÜNEY SUDAN CUMHURİYETİ",
+        "code": "SD",
+        "mernis": "9759"
+    },
+    {
+        "country": "İSVEÇ KRALLIĞI",
+        "code": "SE",
+        "mernis": "9973"
+    },
+    {
+        "country": "SİNGAPUR CUMHURİYETİ",
+        "code": "SG",
+        "mernis": "9964"
+    },
+    {
+        "country": "SLOVENYA CUMHURİYETİ",
+        "code": "SI",
+        "mernis": "9833"
+    },
+    {
+        "country": "SLOVAK CUMHURİYETİ",
+        "code": "SK",
+        "mernis": "9832"
+    },
+    {
+        "country": "SİERRA LEONE CUMHURİYETİ",
+        "code": "SL",
+        "mernis": "9963"
+    },
+    {
+        "country": "SAN MARİNO CUMHURİYETİ",
+        "code": "SM",
+        "mernis": "9805"
+    },
+    {
+        "country": "SENEGAL CUMHURİYETİ",
+        "code": "SN",
+        "mernis": "9961"
+    },
+    {
+        "country": "SOMALİ FEDERAL CUMHURİYETİ",
+        "code": "SO",
+        "mernis": "9966"
+    },
+    {
+        "country": "SURİNAM CUMHURİYETİ",
+        "code": "SR",
+        "mernis": "9971"
+    },
+    {
+        "country": "SAO TOME VE PRİNCİPE DEMOKRATİK CUMHURİYETİ",
+        "code": "ST",
+        "mernis": "9959"
+    },
+    {
+        "country": "EL SALVADOR CUMHURİYETİ",
+        "code": "SV",
+        "mernis": "9885"
+    },
+    {
+        "country": "SURİYE ARAP CUMHURİYETİ",
+        "code": "SY",
+        "mernis": "9975"
+    },
+    {
+        "country": "SVAZİLAND KRALLIĞI",
+        "code": "SZ",
+        "mernis": "9972"
+    },
+    {
+        "country": "ÇAD CUMHURİYETİ",
+        "code": "TD",
+        "mernis": "9866"
+    },
+    {
+        "country": "TOGO CUMHURİYETİ",
+        "code": "TG",
+        "mernis": "9977"
+    },
+    {
+        "country": "TAYLAND KRALLIĞI",
+        "code": "TH",
+        "mernis": "9976"
+    },
+    {
+        "country": "TACİKİSTAN CUMHURİYETİ",
+        "code": "TJ",
+        "mernis": "9834"
+    },
+    {
+        "country": "TÜRKMENİSTAN",
+        "code": "TM",
+        "mernis": "9835"
+    },
+    {
+        "country": "TUNUS CUMHURİYETİ",
+        "code": "TN",
+        "mernis": "9979"
+    },
+    {
+        "country": "TONGA KRALLIĞI",
+        "code": "TO",
+        "mernis": "9807"
+    },
+    {
+        "country": "TÜRKİYE CUMHURİYETİ",
+        "code": "TR",
+        "mernis": "9980"
+    },
+    {
+        "country": "TRİNİDAD VE TOBAGO CUMHURİYETİ",
+        "code": "TT",
+        "mernis": "9978"
+    },
+    {
+        "country": "TUVALU",
+        "code": "TV",
+        "mernis": "9808"
+    },
+    {
+        "country": "ÇİN TAYVAN",
+        "code": "TW",
+        "mernis": "9772"
+    },
+    {
+        "country": "TANZANYA BİRLEŞİK CUMHURİYETİ",
+        "code": "TZ",
+        "mernis": "9987"
+    },
+    {
+        "country": "UKRAYNA",
+        "code": "UA",
+        "mernis": "9837"
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "UGANDA CUMHURİYETİ",
+        "code": "UG",
+        "mernis": "9981"
+    },
+    {
+        "country": "AMERİKA BİRLEŞİK DEVLETLERİ",
+        "code": "US",
+        "mernis": "9988"
+    },
+    {
+        "country": "URUGUAY DOĞU CUMHURİYETİ",
+        "code": "UY",
+        "mernis": "9990"
+    },
+    {
+        "country": "ÖZBEKİSTAN CUMHURİYETİ",
+        "code": "UZ",
+        "mernis": "9836"
+    },
+    {
+        "country": "VATİKAN",
+        "code": "VA",
+        "mernis": "9799"
+    },
+    {
+        "country": "SAİNT VİNCENT VE GRENADİNLER",
+        "code": "VC",
+        "mernis": "9957"
+    },
+    {
+        "country": "BOLİVARCI VENEZUELA CUMHURİYETİ",
+        "code": "VE",
+        "mernis": "9992"
+    },
+    {
+        "country": "VİETNAM SOSYALİST CUMHURİYETİ",
+        "code": "VN",
+        "mernis": "9993"
+    },
+    {
+        "country": "VANUATU CUMHURİYETİ",
+        "code": "VU",
+        "mernis": "9991"
+    },
+    {
+        "country": "BİLİNMEYEN",
+        "code": "XA",
+        "mernis": "9839"
+    },
+    {
+        "country": "CABO VERDE CUMHURİYETİ",
+        "code": "XX",
+        "mernis": "9864"
+    },
+    {
+        "country": "ORTA AFRİKA CUMHURİYETİ",
+        "code": "XX",
+        "mernis": "9865"
+    },
+    {
+        "country": "DİĞER",
+        "code": "XX",
+        "mernis": "9838"
+    },
+    {
+        "country": "KUDÜS",
+        "code": "XX",
+        "mernis": "9760"
+    },
+    {
+        "country": "LEFKOŞA",
+        "code": "XX",
+        "mernis": "9756"
+    },
+    {
+        "country": "KIRIM",
+        "code": "XX",
+        "mernis": "9757"
+    },
+    {
+        "country": "DOĞU TİMOR DEMOKRATİK CUMHURİYETİ",
+        "code": "XX",
+        "mernis": "9758"
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "YEMEN CUMHURİYETİ",
+        "code": "YM",
+        "mernis": "9994"
+    },
+    {
+        "country": "",
+        "code": "",
+        "mernis": ""
+    },
+    {
+        "country": "GÜNEY AFRİKA CUMHURİYETİ",
+        "code": "ZA",
+        "mernis": "9967"
+    },
+    {
+        "country": "ZAMBİYA CUMHURİYETİ",
+        "code": "ZM",
+        "mernis": "9997"
+    },
+    {
+        "country": "ZİMBABVE CUMHURİYETİ",
+        "code": "ZW",
+        "mernis": "9998"
+    }
+]
