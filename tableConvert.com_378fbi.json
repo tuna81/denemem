@@ -1,0 +1,1132 @@
+﻿[
+    {
+        "name": "VATANSIZ",
+        "value": "--",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ANDORRA PRENSLİĞİ",
+        "value": "AD",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BİRLEŞİK ARAP EMİRLİKLERİ",
+        "value": "AE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "AFGANİSTAN İSLAM CUMHURİYETİ",
+        "value": "AF",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ANTİGUA VE BARBUDA",
+        "value": "AG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ARNAVUTLUK CUMHURİYETİ",
+        "value": "AL",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ERMENİSTAN CUMHURİYETİ",
+        "value": "AM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ANGOLA CUMHURİYETİ",
+        "value": "AO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ARJANTİN CUMHURİYETİ",
+        "value": "AR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SAMOA BAĞIMSIZ DEVLETİ",
+        "value": "AS",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "AVUSTURYA CUMHURİYETİ",
+        "value": "AT",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "AVUSTRALYA",
+        "value": "AU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "AZERBAYCAN CUMHURİYETİ",
+        "value": "AZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BOSNA HERSEK",
+        "value": "BA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BARBADOS",
+        "value": "BB",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BANGLADEŞ HALK CUMHURİYETİ",
+        "value": "BD",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BELÇİKA KRALLIĞI",
+        "value": "BE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BURKİNA FASO",
+        "value": "BF",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BULGARİSTAN CUMHURİYETİ",
+        "value": "BG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BAHREYN KRALLIĞI",
+        "value": "BH",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BURUNDİ CUMHURİYETİ",
+        "value": "BI",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BENİN CUMHURİYETİ",
+        "value": "BJ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BRUNEİ DARUSSELAM",
+        "value": "BN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BOLİVYA ÇOKULUSLU DEVLETİ",
+        "value": "BO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BREZİLYA FEDERATİF CUMHURİYETİ",
+        "value": "BR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BAHAMALAR",
+        "value": "BS",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BUTAN KRALLIĞI",
+        "value": "BT",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BOTSVANA CUMHURİYETİ",
+        "value": "BW",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BELARUS CUMHURİYETİ",
+        "value": "BY",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BELİZE",
+        "value": "BZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KANADA",
+        "value": "CA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KONGO DEMOKRATİK CUMHURİYETİ",
+        "value": "CD",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KONGO CUMHURİYETİ",
+        "value": "CG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "İSVİÇRE KONFEDERASYONU",
+        "value": "CH",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "FİLDİŞİ SAHİLİ CUMHURİYETİ",
+        "value": "CI",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ŞİLİ CUMHURİYETİ",
+        "value": "CL",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KAMERUN CUMHURİYETİ",
+        "value": "CM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ÇİN HALK CUMHURİYETİ",
+        "value": "CN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KOLOMBİYA CUMHURİYETİ",
+        "value": "CO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KOSTA RİKA CUMHURİYETİ",
+        "value": "CR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KÜBA CUMHURİYETİ",
+        "value": "CU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GÜNEY KIBRIS RUM YÖNETİMİ",
+        "value": "CY",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ÇEK CUMHURİYETİ",
+        "value": "CZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ALMANYA FEDERAL CUMHURİYETİ",
+        "value": "DE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "CİBUTİ CUMHURİYETİ",
+        "value": "DJ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "DANİMARKA KRALLIĞI",
+        "value": "DK",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "DOMİNİKA",
+        "value": "DM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "DOMİNİK CUMHURİYETİ",
+        "value": "DO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "CEZAYİR DEMOKRATİK HALK CUMHURİYETİ",
+        "value": "DZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "EKVATOR CUMHURİYETİ",
+        "value": "EC",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ESTONYA CUMHURİYETİ",
+        "value": "EE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MISIR ARAP CUMHURİYETİ",
+        "value": "EG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ERİTRE DEVLETİ",
+        "value": "ER",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "İSPANYA KRALLIĞI",
+        "value": "ES",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ETİYOPYA FEDERAL DEMOKRATİK CUMHURİYETİ",
+        "value": "ET",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "FİNLANDİYA CUMHURİYETİ",
+        "value": "FI",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "FİJİ CUMHURİYETİ",
+        "value": "FJ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MİKRONEZYA FEDERE DEVLETLERİ",
+        "value": "FM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "FRANSA CUMHURİYETİ",
+        "value": "FR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GABON CUMHURİYETİ",
+        "value": "GA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BÜYÜK BRİTANYA VE KUZEY İRLANDA BİRLEŞİK KRALLIĞI",
+        "value": "GB",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GRENADA",
+        "value": "GD",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GÜRCİSTAN CUMHURİYETİ",
+        "value": "GE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GANA CUMHURİYETİ",
+        "value": "GH",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GAMBİYA CUMHURİYETİ",
+        "value": "GM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GİNE CUMHURİYETİ",
+        "value": "GN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "EKVATOR GİNESİ CUMHURİYETİ",
+        "value": "GQ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "YUNANİSTAN CUMHURİYETİ",
+        "value": "GR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GUATEMALA CUMHURİYETİ",
+        "value": "GT",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GİNE-BİSSAU CUMHURİYETİ",
+        "value": "GW",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GUYANA KOOPERATİF CUMHURİYETİ",
+        "value": "GY",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "HONDURAS CUMHURİYETİ",
+        "value": "HN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "HIRVATİSTAN CUMHURİYETİ",
+        "value": "HR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "HAİTİ CUMHURİYETİ",
+        "value": "HT",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MACARİSTAN",
+        "value": "HU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ENDONEZYA CUMHURİYETİ",
+        "value": "\"ID\"",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "İRLANDA CUMHURİYETİ",
+        "value": "IE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "İSRAİL DEVLETİ",
+        "value": "IL",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "HİNDİSTAN CUMHURİYETİ",
+        "value": "IN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "IRAK CUMHURİYETİ",
+        "value": "IQ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "İRAN İSLAM CUMHURİYETİ",
+        "value": "IR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "İZLANDA CUMHURİYETİ",
+        "value": "IS",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "İTALYA CUMHURİYETİ",
+        "value": "IT",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "JAMAİKA",
+        "value": "JM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ÜRDÜN HAŞİMİ KRALLIĞI",
+        "value": "JO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "JAPONYA",
+        "value": "JP",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KENYA CUMHURİYETİ",
+        "value": "KE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KIRGIZ CUMHURİYETİ",
+        "value": "KG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KAMBOÇYA KRALLIĞI",
+        "value": "KH",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KİRİBATİ CUMHURİYETİ",
+        "value": "KI",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KUZEY KIBRIS TÜRK CUMHURİYETİ",
+        "value": "KK",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KOMORLAR BİRLİĞİ",
+        "value": "KM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SAİNT KİTTS VE NEVİS FEDERASYONU",
+        "value": "KN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KOSOVA CUMHURİYETİ",
+        "value": "KO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KORE DEMOKRATİK HALK CUMHURİYETİ",
+        "value": "KP",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KORE CUMHURİYETİ",
+        "value": "KR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KUVEYT DEVLETİ",
+        "value": "KW",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KAZAKİSTAN CUMHURİYETİ",
+        "value": "KZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LAOS DEMOKRATİK HALK CUMHURİYETİ",
+        "value": "LA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LÜBNAN CUMHURİYETİ",
+        "value": "LB",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SAİNT LUCİA",
+        "value": "LC",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LİHTENŞTAYN PRENSLİĞİ",
+        "value": "LI",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SRİ LANKA DEMOKRATİK SOSYALİST CUMHURİYETİ",
+        "value": "LK",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LİBERYA CUMHURİYETİ",
+        "value": "LR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LESOTHO KRALLIĞI",
+        "value": "LS",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LİTVANYA CUMHURİYETİ",
+        "value": "LT",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LÜKSEMBURG BÜYÜK DÜKALIĞI",
+        "value": "LU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LETONYA CUMHURİYETİ",
+        "value": "LV",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LİBYA DEVLETİ",
+        "value": "LY",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BİRLEŞİK MEKSİKA DEVLETLERİ",
+        "value": "M",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "FAS KRALLIĞI",
+        "value": "MA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MONAKO PRENSLİĞİ",
+        "value": "MC",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MOLDOVA CUMHURİYETİ",
+        "value": "MD",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KARADAĞ",
+        "value": "ME",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MADAGASKAR CUMHURİYETİ",
+        "value": "MG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MARŞAL ADALARI CUMHURİYETİ",
+        "value": "MH",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MAKEDONYA CUMHURİYETİ",
+        "value": "MK",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MALİ CUMHURİYETİ",
+        "value": "ML",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MYANMAR BİRLİĞİ CUMHURİYETİ",
+        "value": "MM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BURMA",
+        "value": "MM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MOĞOLİSTAN",
+        "value": "MN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MORİTANYA İSLAM CUMHURİYETİ",
+        "value": "MR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MALTA CUMHURİYETİ",
+        "value": "MT",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MAURİTİUS CUMHURİYETİ",
+        "value": "MU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MALDİVLER CUMHURİYETİ",
+        "value": "MV",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MALAVİ CUMHURİYETİ",
+        "value": "MW",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MALEZYA",
+        "value": "MY",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "MOZAMBİK CUMHURİYETİ",
+        "value": "MZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "NAMİBYA CUMHURİYETİ",
+        "value": "NA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "NİJER CUMHURİYETİ",
+        "value": "NE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "NİJERYA FEDERAL CUMHURİYETİ",
+        "value": "NG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "NİKARAGUA CUMHURİYETİ",
+        "value": "NI",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "HOLLANDA KRALLIĞI",
+        "value": "NL",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "NORVEÇ KRALLIĞI",
+        "value": "NO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "NEPAL FEDERAL DEMOKRATİK CUMHURİYETİ",
+        "value": "NP",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "NAURU CUMHURİYETİ",
+        "value": "NR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "YENİ ZELANDA",
+        "value": "NZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "UMMAN SULTANLIĞI",
+        "value": "OM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "PANAMA CUMHURİYETİ",
+        "value": "PA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "PERU CUMHURİYETİ",
+        "value": "PE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "PAPUA YENİ GİNE BAĞIMSIZ DEVLETİ",
+        "value": "PG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "FİLİPİNLER CUMHURİYETİ",
+        "value": "PH",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "PAKİSTAN İSLAM CUMHURİYETİ",
+        "value": "PK",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "POLONYA CUMHURİYETİ",
+        "value": "PL",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "FİLİSTİN DEVLETİ",
+        "value": "PS",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "PORTEKİZ CUMHURİYETİ",
+        "value": "PT",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "PALAU CUMHURİYETİ",
+        "value": "PW",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "PARAGUAY CUMHURİYETİ",
+        "value": "PY",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KATAR DEVLETİ",
+        "value": "QA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ROMANYA",
+        "value": "RO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SIRBİSTAN CUMHURİYETİ",
+        "value": "RS",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / BAŞKURDİSTAN CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / ALTAY CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / ADIGE CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / BURYAT CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / İNGUŞETYA CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / KABARDİN-BALKARYA CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / KALMIKYA CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / KARAÇAY-ÇERKES CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / KARELYA CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / KOMİ CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / MARİ EL CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / MORDOVYA CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / SAHA CUMHURİYETİ (YAKUTİSTAN)",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / KUZEY OSETYA-ALANYA CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / TATARİSTAN CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / TIVA CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / UDMURT CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / HAKASYA CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / ÇUVAŞİSTAN CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / DAĞISTAN CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FED. / ÇEÇENİSTAN CUMHURİYETİ",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUSYA FEDERASYONU",
+        "value": "RU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "RUANDA CUMHURİYETİ",
+        "value": "RW",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SUUDİ ARABİSTAN KRALLIĞI",
+        "value": "SA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SOLOMON ADALARI",
+        "value": "SB",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SEYŞELLER CUMHURİYETİ",
+        "value": "SC",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SUDAN CUMHURİYETİ",
+        "value": "SD",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GÜNEY SUDAN CUMHURİYETİ",
+        "value": "SD",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "İSVEÇ KRALLIĞI",
+        "value": "SE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SİNGAPUR CUMHURİYETİ",
+        "value": "SG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SLOVENYA CUMHURİYETİ",
+        "value": "SI",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SLOVAK CUMHURİYETİ",
+        "value": "SK",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SİERRA LEONE CUMHURİYETİ",
+        "value": "SL",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SAN MARİNO CUMHURİYETİ",
+        "value": "SM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SENEGAL CUMHURİYETİ",
+        "value": "SN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SOMALİ FEDERAL CUMHURİYETİ",
+        "value": "SO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SURİNAM CUMHURİYETİ",
+        "value": "SR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SAO TOME VE PRİNCİPE DEMOKRATİK CUMHURİYETİ",
+        "value": "ST",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "EL SALVADOR CUMHURİYETİ",
+        "value": "SV",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SURİYE ARAP CUMHURİYETİ",
+        "value": "SY",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SVAZİLAND KRALLIĞI",
+        "value": "SZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ÇAD CUMHURİYETİ",
+        "value": "TD",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TOGO CUMHURİYETİ",
+        "value": "TG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TAYLAND KRALLIĞI",
+        "value": "TH",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TACİKİSTAN CUMHURİYETİ",
+        "value": "TJ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TÜRKMENİSTAN",
+        "value": "TM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TUNUS CUMHURİYETİ",
+        "value": "TN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TONGA KRALLIĞI",
+        "value": "TO",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TÜRKİYE CUMHURİYETİ",
+        "value": "TR",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TRİNİDAD VE TOBAGO CUMHURİYETİ",
+        "value": "TT",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TUVALU",
+        "value": "TV",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ÇİN TAYVAN",
+        "value": "TW",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "TANZANYA BİRLEŞİK CUMHURİYETİ",
+        "value": "TZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "UKRAYNA",
+        "value": "UA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "UGANDA CUMHURİYETİ",
+        "value": "UG",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "AMERİKA BİRLEŞİK DEVLETLERİ",
+        "value": "US",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "URUGUAY DOĞU CUMHURİYETİ",
+        "value": "UY",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ÖZBEKİSTAN CUMHURİYETİ",
+        "value": "UZ",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "VATİKAN",
+        "value": "VA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "SAİNT VİNCENT VE GRENADİNLER",
+        "value": "VC",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BOLİVARCI VENEZUELA CUMHURİYETİ",
+        "value": "VE",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "VİETNAM SOSYALİST CUMHURİYETİ",
+        "value": "VN",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "VANUATU CUMHURİYETİ",
+        "value": "VU",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "BİLİNMEYEN",
+        "value": "XA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "CABO VERDE CUMHURİYETİ",
+        "value": "XX",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ORTA AFRİKA CUMHURİYETİ",
+        "value": "XX",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "DİĞER",
+        "value": "XX",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KUDÜS",
+        "value": "XX",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "LEFKOŞA",
+        "value": "XX",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "KIRIM",
+        "value": "XX",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "DOĞU TİMOR DEMOKRATİK CUMHURİYETİ",
+        "value": "XX",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "YEMEN CUMHURİYETİ",
+        "value": "YM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "GÜNEY AFRİKA CUMHURİYETİ",
+        "value": "ZA",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ZAMBİYA CUMHURİYETİ",
+        "value": "ZM",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    },
+    {
+        "name": "ZİMBABVE CUMHURİYETİ",
+        "value": "ZW",
+        "guid": "d650777a-3d4d-a259-e040-7c0a01167a83"
+    }
+]
